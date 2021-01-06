@@ -1,6 +1,6 @@
 ## U.S. High School Track & Field and Cross-Country Data Analysis  
 
-### Shinyapps Link to interact with visualization
+### The Shinyapps Link to explore more features 
 https://wafer110.shinyapps.io/Shiny_WeiHuaHsu/
 
 ### Outdoor & Indoor High School Track & Field Data Visualization
